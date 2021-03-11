@@ -1,0 +1,55 @@
+.autosuggest-body {
+	Z-INDEX: 100; BORDER-BOTTOM: black 1px solid; POSITION: absolute; BORDER-LEFT: black 1px solid; BORDER-TOP: black 1px solid; BORDER-RIGHT: black 1px solid
+}
+.autosuggest-body IFRAME {
+	Z-INDEX: 999; POSITION: absolute; FILTER: alpha(opacity=0); DISPLAY: block
+}
+.autosuggest-body TABLE {
+	BACKGROUND-COLOR: #fffff0; WIDTH: 100%
+}
+.autosuggest-body TR {
+	TEXT-ALIGN: left; FONT-FAMILY: verdana, arial, helvetica; COLOR: black; FONT-SIZE: 10px; CURSOR: pointer
+}
+.autosuggest-body TR.up {
+	BACKGROUND: url(/web/20130425020407im_/http://schooleducationharyana.gov.in/css/arrow-up.gif) #656291 no-repeat center center; HEIGHT: 10px
+}
+.autosuggest-body TR.down {
+	BACKGROUND: url(/web/20130425020407im_/http://schooleducationharyana.gov.in/css/arrow-down.gif) #656291 no-repeat center center; HEIGHT: 10px
+}
+.autosuggest-body TR.up-disabled {
+	BACKGROUND: url(/web/20130425020407im_/http://schooleducationharyana.gov.in/css/arrow-up-d.gif) #656291 no-repeat center center; HEIGHT: 10px; CURSOR: default
+}
+.autosuggest-body TR.down-disabled {
+	BACKGROUND: url(/web/20130425020407im_/http://schooleducationharyana.gov.in/css/arrow-down-d.gif) #656291 no-repeat center center; HEIGHT: 10px; CURSOR: default
+}
+.autosuggest-body TR.selected {
+	BACKGROUND-COLOR: #d6d7e7; COLOR: red
+}
+.autosuggest-body TD {
+	WHITE-SPACE: nowrap
+}
+.autosuggest-body SPAN.match {
+	TEXT-DECORATION: underline
+}
+
+/*
+     FILE ARCHIVED ON 02:04:07 Apr 25, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 12:04:13 Mar 11, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 272.438
+  exclusion.robots: 0.113
+  exclusion.robots.policy: 0.103
+  RedisCDXSource: 2.187
+  esindex: 0.011
+  LoadShardBlock: 246.253 (3)
+  PetaboxLoader3.datanode: 340.36 (4)
+  CDXLines.iter: 20.795 (3)
+  load_resource: 158.846
+  PetaboxLoader3.resolve: 39.195
+*/
